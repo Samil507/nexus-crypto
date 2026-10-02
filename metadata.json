@@ -1,0 +1,6 @@
+{
+  "name": "NexusCrypto — Institutional Grade Crypto Staking & Payout Protocol",
+  "description": "Premium dark navy and emerald crypto staking and investment hub with USDT, BNB, TRX, and ETH deposit verification, 40-day fixed-yield contracts, daily claims, secure withdrawals, and Blogger embedding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
